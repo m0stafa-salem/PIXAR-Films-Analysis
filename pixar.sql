@@ -1,14 +1,3 @@
-/*
--- Inspect the Tables
-SELECT * FROM box_office LIMIT 5;
-SELECT * FROM pixar_films LIMIT 5;
-SELECT * FROM genres LIMIT 5;
-SELECT * FROM public_response LIMIT 5;
-SELECT * FROM academy LIMIT 5;
-SELECT * FROM pixar_people LIMIT 5;
-*/
-
--- -------------------------------------------------------------
 -- Films Overview
 CREATE VIEW films_overview AS
 SELECT 
