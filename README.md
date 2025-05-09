@@ -76,7 +76,7 @@ The Power BI dashboard visualizes the data from the SQL views to provide insight
 
 #### PIXAR Films Dashboard | Score
 
-![Score Dashboard](images/score.png)
+![Score Dashboard](ScorePage.png)
 
 - **Layout**: A dashboard with a vertical panel on the left featuring the Pixar logo and interactive filters for "Release Year," "Category," and "Film."
 - **Key Sections**:
