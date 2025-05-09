@@ -87,7 +87,8 @@ The Power BI dashboard visualizes the data from the SQL views to provide insight
   - **Cinema Score Pie Chart**: A pie chart breaking down Cinema Score ratings (A: 60%, A+: 28%, A-: 12%).
   - **Film Rating Pie Chart**: A pie chart showing the distribution of film ratings (PG: 48%, G: 52%).
 - **Design Elements**: Clean and user-friendly layout with blue and white colors, interactive filters, and navigation icons for additional sections.
-- 
+
+  
 #### PIXAR Films Dashboard | Rewards
 
 ![Rewards Dashboard](RewardsPage.png)
