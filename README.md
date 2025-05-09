@@ -1,4 +1,4 @@
-# PIXAR-Films-Analysis
+# PIXAR Films Analysis
 This project analyzes data about Pixar films using MySQL for data processing and Power BI for visualization. The dataset includes information about films, their financial performance, genres, public reviews, awards, and the people involved in their production.
 
 ## Dataset Overview
