@@ -99,14 +99,13 @@ The Power BI dashboard visualizes the data from the SQL views to provide insight
   - **Roles and Contributions**: A table detailing individuals involved in "WALL-E," including directors, screenwriters, and musicians.
   - **Director Metrics**: A table listing directors with their number of films, average Rotten Tomatoes score, and average box office earnings.
   - **Awards Bar Chart**: A bar chart comparing the number of awards (wins and nominations) across various Pixar films, with "WALL-E" having the highest bar.
-- **Design Elements**: Clean, professional layout with blue and white color schemes, interactive filters, and the creator's name, "Mostafa Salem."
 
 ## How to Use
 
 1. **Set Up the Database**:
    - Create a MySQL schema named `pixar`.
    - Import the provided CSV files into the respective tables (e.g., `box_office.csv`, `pixar_films.csv`, etc.).
-   - Run the SQL script ![pixar.sql](pixar.sql) to create the views.
+   - Run the SQL script [pixar.sql](pixar.sql) to create the views.
 
 2. **Connect Power BI to MySQL**:
    - Open Power BI Desktop.
