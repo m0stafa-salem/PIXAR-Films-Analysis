@@ -89,7 +89,7 @@ The Power BI dashboard visualizes the data from the SQL views to provide insight
 
 #### PIXAR Films Dashboard | Finance
 
-![Finance Dashboard](images/finance.png)
+![Finance Dashboard](FinancePage.png)
 
 - **Layout**: A financial dashboard with a filter panel on the left for "Release Year," "Category," and "Film."
 - **Key Sections**:
