@@ -64,7 +64,7 @@ The Power BI dashboard visualizes the data from the SQL views to provide insight
 
 #### PIXAR Films Dashboard | Rewards
 
-![Rewards Dashboard](images/rewards.png)
+![Rewards Dashboard](RewardsPage.png)
 
 - **Layout**: A detailed dashboard with a blue vertical panel on the left featuring the Pixar logo and interactive filters for "Release Year" and "Category."
 - **Key Sections**:
