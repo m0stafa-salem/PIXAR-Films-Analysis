@@ -106,7 +106,7 @@ The Power BI dashboard visualizes the data from the SQL views to provide insight
 1. **Set Up the Database**:
    - Create a MySQL schema named `pixar`.
    - Import the provided CSV files into the respective tables (e.g., `box_office.csv`, `pixar_films.csv`, etc.).
-   - Run the SQL script located in `sql/pixar.sql` to create the views.
+   - Run the SQL script ![pixar.sql](pixar.sql) to create the views.
 
 2. **Connect Power BI to MySQL**:
    - Open Power BI Desktop.
