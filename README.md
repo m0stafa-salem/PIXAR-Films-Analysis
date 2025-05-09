@@ -64,7 +64,7 @@ The Power BI dashboard visualizes the data from the SQL views to provide insight
 
 #### PIXAR Films Dashboard | Finance
 
-![Finance Dashboard](FinancePage.png)
+![Finance Dashboard](Images/Finance.png)
 
 - **Layout**: A financial dashboard with a filter panel on the left for "Release Year," "Category," and "Film."
 - **Key Sections**:
@@ -77,7 +77,7 @@ The Power BI dashboard visualizes the data from the SQL views to provide insight
 
 #### PIXAR Films Dashboard | Score
 
-![Score Dashboard](ScorePage.png)
+![Score Dashboard](Images/Score.png)
 
 - **Layout**: A dashboard with a vertical panel on the left featuring the Pixar logo and interactive filters for "Release Year," "Category," and "Film."
 - **Key Sections**:
@@ -91,7 +91,7 @@ The Power BI dashboard visualizes the data from the SQL views to provide insight
   
 #### PIXAR Films Dashboard | Rewards
 
-![Rewards Dashboard](RewardsPage.png)
+![Rewards Dashboard](Images/Rewards.png)
 
 - **Layout**: A detailed dashboard with a blue vertical panel on the left featuring the Pixar logo and interactive filters for "Release Year" and "Category."
 - **Key Sections**:
